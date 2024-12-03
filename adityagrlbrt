@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Pribadi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Selamat datang di website saya!</h1>
+    </header>
+    <section>
+        <p>Ini adalah website pribadi saya yang dibuat dengan GitHub Pages.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Nama Anda</p>
+    </footer>
+</body>
+</html>
